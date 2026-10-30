@@ -1,23 +1,32 @@
 ---
-title: "Photography"
+title: Projects
 ---
 
-These are some of my favorite photographs from the past two years I've spent living in Cleveland. During this time, I've enjoyed exploring different foods, including sushi, sandwiches, hot pot, and Thai cuisine. I've also made many wonderful memories studying at cozy cafés, spending time by the lake, and visiting the cemetery to admire the beautiful flowers.
+## Well-Being of Children with Histories of Maltreatment in Group Homes and Residential Care Settings
 
-Through these photographs, I hope to capture and preserve the little moments of happiness and the special memories that have made my life in Cleveland so meaningful.
+<img src="1.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
 
-::: {layout-ncol=2}
+I am currently developing my dissertation prospectus, which focuses on the well-being of children with histories of maltreatment who are living in group homes and other residential care settings. This overarching research topic will be explored through three interconnected studies.
 
-![](1.jpeg)
+The first study aims to examine children's well-being across multiple dimensions, including depressive symptoms, trauma-related symptoms, behavioral problems, peer relationships, and school engagement. It will also investigate how children's backgrounds and experiences are associated with different aspects of their well-being.
 
-![](2.jpeg)
+The second study will use a longitudinal approach to examine whether and how protective factors are associated with changes in children's well-being over time.
 
-![](3.jpeg)
+Finally, the third study will involve qualitative interviews with staff working in group homes and residential care settings to explore their perspectives on the protective factors that may support children's well-being.
 
-![](4.jpeg)
+Through these three studies, I hope to develop a more comprehensive understanding of the well-being of children with histories of maltreatment and identify factors that may contribute to more supportive residential care environments.
 
-![](5.jpeg)
+----
 
-![](6.jpeg)
+## Mental Health, Service Experiences, and Support Needs Among Refugees and Immigrants
 
-:::
+<img src="2.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+During the summer, I participated in a research project examining mental health, service experiences, and support needs among refugee and immigrant populations.
+
+The project focused on three groups: Afghan SASIC participants, other refugees and asylum seekers, and other immigrants. Using survey data, we examined participants' mental health, the services they received from a community organization, their perceptions of which services were helpful, and the additional support they needed.
+
+The project aimed to better understand the mental health challenges and service needs of these populations while evaluating how existing services addressed their needs.
+
+I am currently working on a manuscript based on the findings of this project, with the goal of contributing to a better understanding of mental health and service provision among refugee and immigrant communities.
+
