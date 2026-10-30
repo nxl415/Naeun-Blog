@@ -1,0 +1,23 @@
+---
+title: "Photography"
+---
+
+These are some of my favorite photographs from the past two years I've spent living in Cleveland. During this time, I've enjoyed exploring different foods, including sushi, sandwiches, hot pot, and Thai cuisine. I've also made many wonderful memories studying at cozy cafés, spending time by the lake, and visiting the cemetery to admire the beautiful flowers.
+
+Through these photographs, I hope to capture and preserve the little moments of happiness and the special memories that have made my life in Cleveland so meaningful.
+
+::: {layout-ncol=2}
+
+![](1.jpeg)
+
+![](2.jpeg)
+
+![](3.jpeg)
+
+![](4.jpeg)
+
+![](5.jpeg)
+
+![](6.jpeg)
+
+:::
